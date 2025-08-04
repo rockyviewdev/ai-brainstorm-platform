@@ -1,0 +1,28 @@
+# Python files and packages
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual environment directories
+.venv/
+env/
+venv/
+
+# Node modules
+node_modules/
+
+# environment variables
+.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
